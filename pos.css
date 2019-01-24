@@ -29,7 +29,7 @@ section:last-of-type{
 .electric-purple{
 	background: #C200FB;
 	height: auto;
-	width: auto;
+	width: inherit;
 }
 
 .raspberry{
