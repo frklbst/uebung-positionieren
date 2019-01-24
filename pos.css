@@ -28,12 +28,18 @@ section:last-of-type{
 
 .electric-purple{
 	background: #C200FB;
+	height: auto;
+	width: auto;
 }
 
 .raspberry{
 	background: #EC0868;
+	height: auto;
+	width: auto;
 }
 
 .ferrari-red{
-	background: #FC2F00
+	background: #FC2F00;
+	height: auto;
+	width: auto;
 }
